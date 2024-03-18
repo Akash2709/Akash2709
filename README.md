@@ -12,12 +12,13 @@ Hi There, Akash Nishad Here.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akash2709&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash2709&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## RoadMap.sh Stats:
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65f823fd275ac16edcce4890?variant=dark)](https://roadmap.sh)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akash2709&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akash2709&icon=0&color=4)](https://visitcount.itsvg.in)
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65f823fd275ac16edcce4890?variant=dark)](https://roadmap.sh)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
