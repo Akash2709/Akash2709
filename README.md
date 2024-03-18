@@ -18,4 +18,6 @@ Hi There, Akash Nishad Here.
 ---
 [![](https://visitcount.itsvg.in/api?id=Akash2709&icon=0&color=4)](https://visitcount.itsvg.in)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65f823fd275ac16edcce4890?variant=dark)](https://roadmap.sh)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
